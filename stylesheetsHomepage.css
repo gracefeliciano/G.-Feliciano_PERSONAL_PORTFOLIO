@@ -1,0 +1,156 @@
+
+
+.header{
+    background-color:rgb(168,126,98);
+    height:220px;
+    width:100%;
+
+}
+
+
+
+.header_text_1{
+ 
+font-family:'Koulen', sans-serif ; 
+font-size: 25px;
+color: rgb(58,35,23);
+display:flex;
+justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+  
+}
+
+
+a:hover{
+    background-color: rgb(244,222,203);
+    color:#FFFFFF;
+ 
+
+
+}
+
+
+
+   
+
+
+
+.Navigation {
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+    margin:30px;
+    gap:20%;
+    font-family: Roboto, sans-serif;
+    font-weight:bold 400px;
+    font-size: 20px;
+
+   
+}
+
+a:visited{
+color:rgb(49,31,19);
+
+}
+
+a:link{
+  color:rgb(49,31,19);
+
+}
+
+
+
+
+
+
+
+
+
+   
+.body{
+    height: 600px;
+    width:100%;
+   background-image:url(images/backgroud-paper.jpg);
+}
+
+
+.body-text{
+  font-family: 'Cedarville Cursive', cursive;
+  text-align: center;
+  font-size:20px;
+  
+}
+
+.hero{
+  display:flex;
+  justify-content:flex-start;
+  height: 600px;
+  width: 50%;
+}
+
+.container{
+  display:flex;
+  justify-content: center;
+}
+
+.container a{
+  background-color: rgb(198, 154, 88);
+  border-radius:25px ;
+
+}
+
+.container a:hover{
+  background-color: #b17d49;
+}
+
+.container a:visited{
+  color:#FFFFFF;
+}
+
+.footer{ 
+height:150px;
+width:100%;
+background-color:rgb(168,126,98);
+margin:0px;
+
+}
+.footer-link {
+display:flex;
+flex-direction:column;
+height: 10px; 
+width:50%;
+margin: 20px 15px 20px 20px;
+align-items: flex-start; 
+
+}
+
+.facebook:hover{
+  opacity:0.5;
+}
+.insta:hover{
+  opacity:0.5;
+}
+.facebook{
+ height: 30px; 
+ width:40%;
+ margin: 20px 15px 20px 20px;
+ align-items: flex-start; 
+}
+
+
+.insta{
+  height: 30px; 
+  width:40%;
+  margin:20px 15px 20px 20px;
+  align-items: flex-start;
+}
+
+
+
+
+
