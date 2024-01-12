@@ -89,7 +89,7 @@ a:link{
 .hero{
   display:flex;
   justify-content:flex-start;
-  height: 600px;
+  height: 5rem;
   width: 50%;
 }
 
