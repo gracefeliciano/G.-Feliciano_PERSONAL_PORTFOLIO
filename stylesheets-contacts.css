@@ -79,15 +79,13 @@ color:rgb(49,31,19);
   width: 100%;
 }
 
-.form-background{
-  background-color: rgba(211, 187, 163, 0.518) ;
-}
+
 
 .contacts{
 text-align: center;
 font-family:'Ysabeau Office', sans-serif;
 background-color:rgb(196, 164, 132);
-font-size:20%;
+font-size:50%;
 font-weight: bolder;
 color:rgb(142, 85, 15);
 }
@@ -96,6 +94,8 @@ color:rgb(142, 85, 15);
   background-color: rgb(198, 154, 88);
   color:rgb(38, 24, 0);
   border-radius: 40px;
+  margin-left:4rem;
+  margin-right:4rem;
 }
 
 .contacts a:hover{
