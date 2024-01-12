@@ -75,8 +75,8 @@ color:rgb(49,31,19);
    
 .body{
   background-color: rgb(244,222,203);
-  height:600px;
-  width: 100%;
+  height:auto;
+  max-width: 100%;
 }
 
 
