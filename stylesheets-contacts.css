@@ -86,8 +86,8 @@ color:rgb(49,31,19);
 .contacts{
 text-align: center;
 font-family:'Ysabeau Office', sans-serif;
-background-color:transparent;
-font-size:20px;
+background-color:rgb(196, 164, 132);
+font-size:20%;
 font-weight: bolder;
 color:rgb(142, 85, 15);
 }
